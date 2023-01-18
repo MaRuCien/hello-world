@@ -1,6 +1,8 @@
-# Hello, World!
+# Hello, World! :)
+
 
 ## JavaScript from zero
+
 
 A "Hello, World!" is a simple program that prints Hello, World! on the console. Since it's a very simple program, this program is often used to introduce a new programming language to beginners.
 
