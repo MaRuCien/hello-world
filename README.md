@@ -26,4 +26,12 @@ There are a few different types of data we can store in variables.
 4. Arrays: a single object that contains multiple values enclosed in square brackets and separated by commas.
 5. Objects: in programming, an object is a structure of code that models a real-life object. You can have a simple object that represents a box and contains information about its width, length, and height, or you could have an object that represents a person, and contains data about their name, height, weight, what language they speak, how to say hello to them, and more.
 
+## Comments
 
+As time goes on, programs become more and more complex. It becomes necessary to add comments which describe what the code does and why.
+Comments can be put into any place of a script. They don’t affect its execution because the engine simply ignores them.
+
+Like this: 
+
+1. One-line comments start with two forward slash characters //
+2. Multiline comments start with a forward slash and an asterisk /* and end with an asterisk and a forward slash */
