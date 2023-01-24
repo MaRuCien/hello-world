@@ -30,8 +30,18 @@ myVariable = false;
 var myNumber = 20;
 
 //String
+//In JavaScript, there are 3 types of quotes:
+//Double quotes: "Hello".
+//Single quotes: 'Hello'.
+//Backticks: `Hello`.
 
 var myString = 'I will learn JavaScript!'
+
+//Double and single quotes are “simple” quotes. There’s practically no difference between them in JavaScript.
+//Backticks are “extended functionality” quotes. They allow us to embed variables and expressions into a string by wrapping them in ${…}, for example:
+
+alert( `the result is ${1 + 2}` ); // the result is 3
+
 
 //Booleans
 
