@@ -37,3 +37,23 @@ Like this:
 
 1. One-line comments start with two forward slash characters //
 2. Multiline comments start with a forward slash and an asterisk /* and end with an asterisk and a forward slash */
+
+## Basic operators
+
+### Maths
+
+Now in programming, we often use both numbers and variables (that store numbers)! We perform the math operations the same way with variables as we do with numbers.
+
++	Addition
+-	Subtraction
+*	Multiplication
+/	Division
+**	Exponentiation 
+%	modulo - returns the remainder of the division
+++	Increment (add 1)
+--	Decrement (subtract 1)
+
+### NaN
+
+In most other cases, when it’s hard to make sense of the arithmetic expression, the result will be NaN or “not-a-number”.
+
