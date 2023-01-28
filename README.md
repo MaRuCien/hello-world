@@ -4,6 +4,8 @@
 
 JavaScript is a scripting or programming language that allows you to implement complex features on web pages, displaying timely content updates, interactive maps, animated 2D/3D graphics, scrolling video jukeboxes, etc.
 
+What is even more exciting however is the functionality built on top of the client-side JavaScript language. So-called Application Programming Interfaces (APIs) provide you with extra superpowers to use in your JavaScript code. APIs are ready-made sets of code building blocks that allow a developer to implement programs that would otherwise be hard or impossible to implement. 
+
 
 ## Hello, World! :)
 
