@@ -46,7 +46,7 @@ Like this:
 
 ## Basic operators
 
-### Maths
+### Arithmetic Operators
 
 Now in programming, we often use both numbers and variables (that store numbers)! We perform the math operations the same way with variables as we do with numbers.
 
@@ -55,7 +55,7 @@ Now in programming, we often use both numbers and variables (that store numbers)
 3. Multiplication *
 4.	Division /
 5. Exponentiation **
-6. Modulo (returns the remainder of the division) %
+6. Modulo or Remainder (returns the remainder of the division) %
 7. Increment (add 1) ++
 8.	Decrement (subtract 1) --
 
