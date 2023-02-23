@@ -43,6 +43,13 @@ Function-scoped means that the variable is only available within the function it
 const: The const keyword declares a block-scoped, immutable constant variable, i.e. a variable that can’t be reassigned.
 Constants are also called “immutable variables”, but that’s a bit of a misnomer since they are actually variables – just ones that can’t be reassigned.
 
+The main differences between var, let and const are:
+
+var is function-scoped while let and const are block-scoped.
+var variables can be reassigned while let and const variables can not.
+var variables are declared using the var keyword while let and const variables are declared using the let and const keywords respectively.
+const variables are immutable while let and var variables are not.
+
 ### Variable types
 
 There are a few different types of data we can store in variables. 
