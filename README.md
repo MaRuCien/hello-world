@@ -30,6 +30,19 @@ Printing to the console is mainly used as a monitoring tool, ideally to leave a 
 A variable is a container for a value, like a number we might use in a sum, or a string that we might use as part of a sentence.
 We can also use the console.log() function to print variables in the console. It is a great way to know their content!
 
+### let, var, and const.
+
+There are three keywords in JavaScript that can be used to declare variables: let, var, and const. Each keyword has different rules and implications for how the variables they create can be used.
+
+let: The let keyword declares a block-scoped local variable, optionally initializing it to a value.
+Block-scoped means that the variable is only available within the block it was declared in, which is usually denoted by curly braces {}.
+
+var: The var keyword declares a function-scoped or global variable, optionally initializing it to a value.
+Function-scoped means that the variable is only available within the function it was declared in. Global variables are available throughout your entire code.
+
+const: The const keyword declares a block-scoped, immutable constant variable, i.e. a variable that can’t be reassigned.
+Constants are also called “immutable variables”, but that’s a bit of a misnomer since they are actually variables – just ones that can’t be reassigned.
+
 ### Variable types
 
 There are a few different types of data we can store in variables. 
