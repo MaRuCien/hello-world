@@ -32,10 +32,10 @@ We can also use the console.log() function to print variables in the console. It
 
 A variable name should accurately identify your variable. When you create good variable names, your JavaScript code becomes easier to understand and easier to work with. Properly naming variables is really important! Here are rules JavaScript has for naming variables:
 
-.Variable names cannot contain spaces.
-.Variable names must begin with a letter, an underscore (_) or a dollar sign ($).
-.Variable names can only contain letters, numbers, underscores, or dollar signs.
-.Variable names are case-sensitive.
+- Variable names cannot contain spaces.
+- Variable names must begin with a letter, an underscore (_) or a dollar sign ($).
+- Variable names can only contain letters, numbers, underscores, or dollar signs.
+- Variable names are case-sensitive.
 
 Certain words may not be used as variable names, because they have other meanings within JavaScript. 
 
@@ -44,10 +44,10 @@ Do you want to begin your variable names with an uppercase letter or a lowercase
 
 Fortunately, you don’t have to make all these choices by yourself. Many professional programmers agree that there are best practices to keep in mind when naming your variables:
 
-.Don’t use names that are too short. Simple one-letter names or names that don’t make sense are not a good option when naming variables.
-.Use more than one word to name your variable. This will ensure your variable name is precise.
-.When using more than one word in your variable names, always put the adjective to the left. For example, this is correct: var greenGrass.
-.Pick a style for names with more than one word, and stick to it. The two most common ways to join words to create a name are camelCase and using an underscore (_). JavaScript is flexible — either method works.
+- Don’t use names that are too short. Simple one-letter names or names that don’t make sense are not a good option when naming variables.
+- Use more than one word to name your variable. This will ensure your variable name is precise.
+- When using more than one word in your variable names, always put the adjective to the left. For example, this is correct: var greenGrass.
+- Pick a style for names with more than one word, and stick to it. The two most common ways to join words to create a name are camelCase and using an underscore (_). JavaScript is flexible — either method works.
 
 ### let, var, and const.
 
