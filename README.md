@@ -22,6 +22,25 @@ A "Hello, World!" is a simple program that prints Hello, World! on the console. 
 
 Printing to the console is mainly used as a monitoring tool, ideally to leave a trace of the content of variables during execution of a program.
 
+## Basic operators
+
+### Arithmetic Operators
+
+Now in programming, we often use both numbers and variables (that store numbers)! We perform the math operations the same way with variables as we do with numbers.
+
+1. Addition +
+2. Subtraction -
+3. Multiplication *
+4.	Division /
+5. Exponentiation **
+6. Modulo or Remainder (returns the remainder of the division) %
+7. Increment (add 1) ++
+8.	Decrement (subtract 1) --
+
+### NaN
+
+In most other cases, when it’s hard to make sense of the arithmetic expression, the result will be NaN or “not-a-number”.
+
 
 ## All About Variables 
 
@@ -69,17 +88,23 @@ var variables can be reassigned while let and const variables can not.
 var variables are declared using the var keyword while let and const variables are declared using the let and const keywords respectively.
 const variables are immutable while let and var variables are not.
 
-### Variable types
+## Data types
 
 There are a few different types of data we can store in variables. 
+
+### Primitive Data Types:
 
 1. Numbers
 2. Strings: pieces of text. A string in JavaScript must be surrounded by quotes.
 3. Booleans: true/false values. True means “yes, correct”, and False means “no, incorrect”.
 4. Arrays: a single object that contains multiple values enclosed in square brackets and separated by commas.
-5. Objects: in programming, an object is a structure of code that models a real-life object. You can have a simple object that represents a box and contains information about its width, length, and height, or you could have an object that represents a person, and contains data about their name, height, weight, what language they speak, how to say hello to them, and more.
-6. Null: It is the intentional absence of the value. It is one of the primitive values of JavaScript.
-7. Undefined: It means the value does not exist in the compiler.
+5. Null: It is the intentional absence of the value. It is one of the primitive values of JavaScript.
+6. Undefined: It means the value does not exist in the compiler.
+
+### Complex Data Types
+
+Objects: in programming, an object is a structure of code that models a real-life object. You can have a simple object that represents a box and contains information about its width, length, and height, or you could have an object that represents a person, and contains data about their name, height, weight, what language they speak, how to say hello to them, and more.
+
 
 ## Comments
 
@@ -91,22 +116,4 @@ Like this:
 1. One-line comments start with two forward slash characters //
 2. Multiline comments start with a forward slash and an asterisk /* and end with an asterisk and a forward slash */
 
-## Basic operators
-
-### Arithmetic Operators
-
-Now in programming, we often use both numbers and variables (that store numbers)! We perform the math operations the same way with variables as we do with numbers.
-
-1. Addition +
-2. Subtraction -
-3. Multiplication *
-4.	Division /
-5. Exponentiation **
-6. Modulo or Remainder (returns the remainder of the division) %
-7. Increment (add 1) ++
-8.	Decrement (subtract 1) --
-
-### NaN
-
-In most other cases, when it’s hard to make sense of the arithmetic expression, the result will be NaN or “not-a-number”.
 
