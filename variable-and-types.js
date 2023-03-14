@@ -51,8 +51,4 @@ var myBoolean = false
 
 var myArray = ['Sara', 'Maria'];
 
-//Objects
-
-let myObject = { animal: 'dog', name : 'Odie', breed : 'German Shepherd' };
-
 
